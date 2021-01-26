@@ -1,26 +1,33 @@
-html{font-family: Microsoft JhengHei;}
-body{background-image: url("background_home.jpg");background-position:top;background-repeat: repeat-y;}
-.head{
-    padding-right: 10px;
+html{font-family: Microsoft JhengHei;background-color:azure;}
+.nav{
+    height: 75px;
+    position: fixed;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+    border:1px solid azure;
+    padding-right: 15px;
     padding-left: 15px;
     padding-top: 5px;
     padding-bottom: 5px;
+    background-color:azure;
+    opacity: 1.0;
 }
-.box{
+.nav_box{
     text-align:center;
+    color: black;
     font-weight: bolder;
     font-size: large;
     font-style: normal;
-    background-color:transparent;
+    background-color:azure;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 20px;
     padding-right: 20px;
-    margin: 5px;
-    border:1px solid transparent;
-    border-color:transparent;
+    margin: 20px;
+    border:1px solid azure;
+    border-color:azure;
     display: inline-block;
     vertical-align: top;
     align-content:stretch;
 }
-.card_front{width: 1000px ;}
