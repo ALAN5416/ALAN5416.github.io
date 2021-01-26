@@ -1,2 +1,26 @@
-.title{width: 350px ; padding:10px ; border : 1px dashed blue ; margin-top: 10px ; margin-bottom: 10px;}
-.keyword{color: cyan; font-size: large; font-weight: bolder;"}
+html{font-family: Microsoft JhengHei;}
+body{background-image: url("background_home.jpg");background-position:top;background-repeat: repeat-y;}
+.head{
+    padding-right: 10px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.box{
+    text-align:center;
+    font-weight: bolder;
+    font-size: large;
+    font-style: normal;
+    background-color:transparent;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 5px;
+    border:1px solid transparent;
+    border-color:transparent;
+    display: inline-block;
+    vertical-align: top;
+    align-content:stretch;
+}
+.card_front{width: 1000px ;}
