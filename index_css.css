@@ -55,8 +55,8 @@ html{font-family: Microsoft JhengHei;background-color:azure;}
 /************************************business_card************************************/
 #card-wrapper {
 	position: relative;
-	margin-top: 80px;
-	margin-left: 100px;
+	margin-top: 150px;
+    margin-left: 145px;
 	width: 500px;
 	height: 300px;
 	display: inline-block;
